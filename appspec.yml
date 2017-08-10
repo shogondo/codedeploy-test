@@ -5,3 +5,5 @@ files:
     destination: /var/www/html
   - source: b.txt
     destination: /var/www/html
+  - source: .htaccess
+    destination: /var/www/html
