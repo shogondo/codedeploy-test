@@ -11,7 +11,9 @@ files:
     #    destination: /var/www/html
     #  - source: /sub.txt
     #    destination: /var/www/html
-  - source: /sub
-    destination: /var/www/html/sub
+    #  - source: /sub
+    #    destination: /var/www/html/sub
     #  - source: .htaccess
     #    destination: /var/www/html
+  - source: /sub/t2.txt
+    destination: /var/www/html/sub
