@@ -13,7 +13,7 @@ files:
     #    destination: /var/www/html
     #  - source: /sub
     #    destination: /var/www/html/sub
-    #  - source: .htaccess
-    #    destination: /var/www/html
+  - source: .htaccess
+    destination: /var/www/html
   - source: /sub/t1.txt
     destination: /var/www/html/sub
