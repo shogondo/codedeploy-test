@@ -25,3 +25,6 @@ files:
     destination: /var/www/html
     #  - source: /sub/t1.txt
     #    destination: /var/www/html/sub
+hooks:
+  BeforeInstall:
+    - location: scripts/clear.sh
