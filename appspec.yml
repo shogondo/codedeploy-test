@@ -17,8 +17,8 @@ files:
     destination: /var/www/html
   - source: c.txt
     destination: /var/www/html
-    #  - source: d.txt
-    #    destination: /var/www/html
+  - source: d.txt
+    destination: /var/www/html
     #  - source: /sub.txt
     #    destination: /var/www/html
     #  - source: /sub
